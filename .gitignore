@@ -2,4 +2,6 @@
 /target/
 **/cert
 **/cred
-
+*.DS_Store
+.idea/
+*.iml
